@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مدير الأذونات</string>
+    <string name="request_all_permissions">طلب جميع الأذونات</string>
+    <string name="open_accessibility_settings">فتح إعدادات إمكانية الوصول</string>
+    <string name="permission_status">حالة الأذونات: جارٍ التحميل...</string>
+    <string name="accessibility_service_description">خدمة إمكانية الوصول الشاملة التي توفر جميع الميزات والإمكانيات المتاحة في نظام Android. تتضمن هذه الخدمة القدرة على قراءة محتوى النوافذ، التحكم في اللمس، التقاط لقطات الشاشة، والتحكم في التكبير.</string>
+</resources>
